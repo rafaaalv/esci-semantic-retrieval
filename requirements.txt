@@ -1,0 +1,17 @@
+# Data Manipulation & Utilities
+pandas
+numpy
+tqdm
+
+# Information Retrieval & Vector Search
+python-terrier
+pyserini
+faiss-cpu
+
+# Models (Hugging Face) & LLM Integration
+sentence-transformers
+openai
+google-generativeai
+
+# Environment Variables
+python-dotenv

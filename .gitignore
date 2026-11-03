@@ -15,4 +15,3 @@ amazon_bm25_index/
 amazon_lucene_collection/
 index/
 *.csv
-*.txt
